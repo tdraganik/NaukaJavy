@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Zadanie {
     public static void main(String[] args) {
-        Wylicz wylicz = new Wylicz();
+        Calculate count = new Calculate();
 
         Scanner scanner = new Scanner(System.in);
         scanner.useLocale(Locale.GERMAN);
@@ -21,7 +21,7 @@ public class Zadanie {
         double b = scanner.nextDouble();
 
         scanner.close();
-        Double wynik = wylicz.Calculate(a,b,z);
+        Double wynik = count.calculate(a,b,z);
         System.out.println(wynik);
 
 
