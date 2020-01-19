@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35d3d540-f0e1-47ca-8df7-df55e5ca5b3b" name="Default Changelist" comment="poprawki w KeyboardInput.Calculate">
+      <change afterPath="$PROJECT_DIR$/src/ArrayExmaple/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayExmaple/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayExmaple/Exmaple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KołoStatic/Human/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KołoStatic/Human/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KołoStatic/PrintNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KołoStatic/Wylicz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KołoStatic/Zadanie/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KołoStatic/Zadanie/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KołoStatic/testStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/ForLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/WhileDoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Car/PrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car/PrinterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KeyboardInput/Calculate/Zadanie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KeyboardInput/Calculate/Zadanie.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="NaukaJavy" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Tomek &lt;draganiktomasz@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VWazWH5el6S4vN17veEFBErdif" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.University">
+    <configuration name="HospitalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hospital.HospitalApp" />
+      <module name="Programy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hospital.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KołoStatic.PrintNumbers" />
+      <module name="Programy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KołoStatic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="University" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KołoStatic.Zadanie.University" />
+      <module name="Programy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KołoStatic.Zadanie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Word" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KołoStatic.Human.Word" />
+      <module name="Programy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KołoStatic.Human.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KołoStatic.testStart" />
+      <module name="Programy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KołoStatic.Human.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.University" />
+        <item itemvalue="Application.PrintNumbers" />
+        <item itemvalue="Application.Word" />
+        <item itemvalue="Application.testStart" />
+        <item itemvalue="Application.HospitalApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35d3d540-f0e1-47ca-8df7-df55e5ca5b3b" name="Default Changelist" comment="" />
+      <created>1577371567538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577371567538</updated>
+    </task>
+    <task id="LOCAL-00001" summary="właściwy commit">
+      <created>1577371663669</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577371663669</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pierwsze linijki">
+      <created>1577376510731</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577376510732</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit z programami wspolrzedne">
+      <created>1577892632156</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577892632156</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Poprawki w kodzie">
+      <created>1577911679647</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577911679647</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Dodanie switch-a do klasy PointController">
+      <created>1577944587590</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577944587590</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Dodanie switch-a do klasy PointController">
+      <created>1577945125480</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577945125480</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Enkapsulacja">
+      <created>1578070733556</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578070733556</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Enkapsulacja, wydzilenie metod , zmiana nazwy pakietu">
+      <created>1578317094697</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1578317094697</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Dodanie klas array">
+      <created>1578737202556</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1578737202556</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Dodanie paczki KeyboardInput.Calculate">
+      <created>1578767776537</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1578767776537</updated>
+    </task>
+    <task id="LOCAL-00011" summary="poprawki w KeyboardInput.Calculate">
+      <created>1578768574539</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1578768574539</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Dodanie klasy SumProvided liczączej sumę wprowadzadzanych liczb">
+      <created>1579068706303</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1579068706303</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Hospital">
+      <created>1579385462370</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1579385462370</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="właściwy commit" />
+    <MESSAGE value="pierwsze linijki" />
+    <MESSAGE value="commit z programami wspolrzedne" />
+    <MESSAGE value="Poprawki w kodzie" />
+    <MESSAGE value="Dodanie switch-a do klasy PointController" />
+    <MESSAGE value="Enkapsulacja" />
+    <MESSAGE value="Enkapsulacja, wydzilenie metod , zmiana nazwy pakietu" />
+    <MESSAGE value="Dodanie klas array" />
+    <MESSAGE value="Dodanie paczki KeyboardInput.Calculate" />
+    <MESSAGE value="poprawki w KeyboardInput.Calculate" />
+    <MESSAGE value="Dodanie klasy SumProvided liczączej sumę wprowadzadzanych liczb" />
+    <MESSAGE value="Hospital" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hospital" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="33" width="806" height="676" key="#Auto_Import" timestamp="1579067399150">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="278" y="33" width="806" height="676" key="#Auto_Import/0.0.1366.741@0.0.1366.741" timestamp="1579067399150" />
+    <state x="278" y="33" width="806" height="676" key="#Servers" timestamp="1578736154927">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="278" y="33" width="806" height="676" key="#Servers/0.0.1366.741@0.0.1366.741" timestamp="1578736154927" />
+    <state x="440" y="177" width="481" height="388" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578981592017">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="440" y="177" width="481" height="388" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.741@0.0.1366.741" timestamp="1578981592017" />
+    <state x="491" y="84" width="380" height="574" key="#com.intellij.ide.util.MemberChooser" timestamp="1579452377502">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="491" y="84" width="380" height="574" key="#com.intellij.ide.util.MemberChooser/0.0.1366.741@0.0.1366.741" timestamp="1579452377502" />
+    <state x="440" y="0" width="482" height="740" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578768029889">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="440" y="0" width="482" height="740" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.741@0.0.1366.741" timestamp="1578768029889" />
+    <state x="330" y="0" width="701" height="740" key="CommitChangelistDialog2" timestamp="1579385462171">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="330" y="0" width="701" height="740" key="CommitChangelistDialog2/0.0.1366.741@0.0.1366.741" timestamp="1579385462171" />
+    <state x="97" y="100" width="1172" height="543" key="DiffContextDialog" timestamp="1578768279613">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="97" y="100" width="1172" height="543" key="DiffContextDialog/0.0.1366.741@0.0.1366.741" timestamp="1578768279613" />
+    <state width="1320" height="106" key="GridCell.Tab.0.bottom" timestamp="1579453918664">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="106" key="GridCell.Tab.0.bottom/0.0.1366.741@0.0.1366.741" timestamp="1579453918664" />
+    <state width="1320" height="106" key="GridCell.Tab.0.center" timestamp="1579453918664">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="106" key="GridCell.Tab.0.center/0.0.1366.741@0.0.1366.741" timestamp="1579453918664" />
+    <state width="1320" height="106" key="GridCell.Tab.0.left" timestamp="1579453918664">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="106" key="GridCell.Tab.0.left/0.0.1366.741@0.0.1366.741" timestamp="1579453918664" />
+    <state width="1320" height="106" key="GridCell.Tab.0.right" timestamp="1579453918664">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="106" key="GridCell.Tab.0.right/0.0.1366.741@0.0.1366.741" timestamp="1579453918664" />
+    <state x="187" y="6" key="SettingsEditor" timestamp="1578737484846">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="187" y="6" key="SettingsEditor/0.0.1366.741@0.0.1366.741" timestamp="1578737484846" />
+    <state x="278" y="107" width="806" height="527" key="Vcs.Push.Dialog.v2" timestamp="1579385470037">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="278" y="107" width="806" height="527" key="Vcs.Push.Dialog.v2/0.0.1366.741@0.0.1366.741" timestamp="1579385470037" />
+    <state x="376" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1579379321931">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="376" y="199" key="com.intellij.ide.util.TipDialog/0.0.1366.741@0.0.1366.741" timestamp="1579379321931" />
+    <state x="347" y="24" width="668" height="694" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578762887610">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="347" y="24" width="668" height="694" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.741@0.0.1366.741" timestamp="1578762887610" />
+    <state x="488" y="291" width="386" height="159" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578635242531">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="488" y="291" width="386" height="159" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.741@0.0.1366.741" timestamp="1578635242531" />
+    <state x="416" y="128" width="530" height="486" key="extract.method.dialog" timestamp="1579448865126">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="416" y="128" width="530" height="486" key="extract.method.dialog/0.0.1366.741@0.0.1366.741" timestamp="1579448865126" />
+    <state x="344" y="163" key="run.anything.popup" timestamp="1578738485923">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="344" y="163" key="run.anything.popup/0.0.1366.741@0.0.1366.741" timestamp="1578738485923" />
+  </component>
+</project>
