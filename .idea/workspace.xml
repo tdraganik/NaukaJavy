@@ -2,18 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35d3d540-f0e1-47ca-8df7-df55e5ca5b3b" name="Default Changelist" comment="poprawki w KeyboardInput.Calculate">
+      <change afterPath="$PROJECT_DIR$/out/production/Programy/ArrayExmaple/Company.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Programy/ArrayExmaple/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Programy/ArrayExmaple/Exmaple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Programy/ArrayExmaple/SumArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Programy/Discount/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Programy/Discount/DiscountApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Programy/Discount/DiscountService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Programy/Discount/PrintService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Programy/Hospital/Hospital.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Programy/Hospital/HospitalApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Programy/Hospital/Patient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Programy/InstrukcjeSterujace/HelloNameSwith.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Programy/InstrukcjeSterujace/IfTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Programy/InstrukcjeSterujace/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Programy/KeyboardInput/Calculate/Calculate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Programy/KeyboardInput/Calculate/Zadanie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Programy/KeyboardInput/InOut.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Programy/KeyboardInput/TwoNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Programy/Literaki/notatki" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Programy/Loops/ForLoops.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Programy/Loops/SumProvided.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Programy/Loops/WhileDoWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayExmaple/ArraySum/ArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayExmaple/ArraySum/Zadanie/Zadanie.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ArrayExmaple/Company.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ArrayExmaple/Employee.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ArrayExmaple/Exmaple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KołoStatic/Human/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KołoStatic/Human/Word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KołoStatic/PrintNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KołoStatic/Wylicz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KołoStatic/Zadanie/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KołoStatic/Zadanie/University.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KołoStatic/testStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Literaki/notatki" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Loops/ForLoops.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Loops/WhileDoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Car/PrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car/PrinterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/KeyboardInput/Calculate/Zadanie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KeyboardInput/Calculate/Zadanie.java" afterDir="false" />
     </list>
@@ -59,13 +78,18 @@
     <property name="extract.method.default.visibility" value="private" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.University">
-    <configuration name="HospitalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hospital.HospitalApp" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ArrayExmaple/ArraySum" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Zadanie">
+    <configuration name="ArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayExmaple.ArraySum.ArraySum" />
       <module name="Programy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Hospital.*" />
+          <option name="PATTERN" value="ArrayExmaple.ArraySum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KołoStatic.testStart" />
+    <configuration name="Zadanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayExmaple.ArraySum.Zadanie.Zadanie" />
       <module name="Programy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KołoStatic.Human.*" />
+          <option name="PATTERN" value="ArrayExmaple.ArraySum.Zadanie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadanie" />
+        <item itemvalue="Application.ArraySum" />
         <item itemvalue="Application.University" />
         <item itemvalue="Application.PrintNumbers" />
         <item itemvalue="Application.Word" />
-        <item itemvalue="Application.testStart" />
-        <item itemvalue="Application.HospitalApp" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579385462370</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="dodanie klasy KołoStatic - słowo Static">
+      <created>1579454225262</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1579454225262</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,7 +309,8 @@
     <MESSAGE value="poprawki w KeyboardInput.Calculate" />
     <MESSAGE value="Dodanie klasy SumProvided liczączej sumę wprowadzadzanych liczb" />
     <MESSAGE value="Hospital" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hospital" />
+    <MESSAGE value="dodanie klasy KołoStatic - słowo Static" />
+    <option name="LAST_COMMIT_MESSAGE" value="dodanie klasy KołoStatic - słowo Static" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="33" width="806" height="676" key="#Auto_Import" timestamp="1579067399150">
@@ -301,38 +333,38 @@
       <screen x="0" y="0" width="1366" height="741" />
     </state>
     <state x="440" y="0" width="482" height="740" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.741@0.0.1366.741" timestamp="1578768029889" />
-    <state x="330" y="0" width="701" height="740" key="CommitChangelistDialog2" timestamp="1579385462171">
+    <state x="330" y="0" width="701" height="740" key="CommitChangelistDialog2" timestamp="1579454225113">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
-    <state x="330" y="0" width="701" height="740" key="CommitChangelistDialog2/0.0.1366.741@0.0.1366.741" timestamp="1579385462171" />
+    <state x="330" y="0" width="701" height="740" key="CommitChangelistDialog2/0.0.1366.741@0.0.1366.741" timestamp="1579454225113" />
     <state x="97" y="100" width="1172" height="543" key="DiffContextDialog" timestamp="1578768279613">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
     <state x="97" y="100" width="1172" height="543" key="DiffContextDialog/0.0.1366.741@0.0.1366.741" timestamp="1578768279613" />
-    <state width="1320" height="106" key="GridCell.Tab.0.bottom" timestamp="1579453918664">
+    <state width="1320" height="106" key="GridCell.Tab.0.bottom" timestamp="1579474204513">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
-    <state width="1320" height="106" key="GridCell.Tab.0.bottom/0.0.1366.741@0.0.1366.741" timestamp="1579453918664" />
-    <state width="1320" height="106" key="GridCell.Tab.0.center" timestamp="1579453918664">
+    <state width="1320" height="106" key="GridCell.Tab.0.bottom/0.0.1366.741@0.0.1366.741" timestamp="1579474204513" />
+    <state width="1320" height="106" key="GridCell.Tab.0.center" timestamp="1579474204512">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
-    <state width="1320" height="106" key="GridCell.Tab.0.center/0.0.1366.741@0.0.1366.741" timestamp="1579453918664" />
-    <state width="1320" height="106" key="GridCell.Tab.0.left" timestamp="1579453918664">
+    <state width="1320" height="106" key="GridCell.Tab.0.center/0.0.1366.741@0.0.1366.741" timestamp="1579474204512" />
+    <state width="1320" height="106" key="GridCell.Tab.0.left" timestamp="1579474204512">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
-    <state width="1320" height="106" key="GridCell.Tab.0.left/0.0.1366.741@0.0.1366.741" timestamp="1579453918664" />
-    <state width="1320" height="106" key="GridCell.Tab.0.right" timestamp="1579453918664">
+    <state width="1320" height="106" key="GridCell.Tab.0.left/0.0.1366.741@0.0.1366.741" timestamp="1579474204512" />
+    <state width="1320" height="106" key="GridCell.Tab.0.right" timestamp="1579474204513">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
-    <state width="1320" height="106" key="GridCell.Tab.0.right/0.0.1366.741@0.0.1366.741" timestamp="1579453918664" />
+    <state width="1320" height="106" key="GridCell.Tab.0.right/0.0.1366.741@0.0.1366.741" timestamp="1579474204513" />
     <state x="187" y="6" key="SettingsEditor" timestamp="1578737484846">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
     <state x="187" y="6" key="SettingsEditor/0.0.1366.741@0.0.1366.741" timestamp="1578737484846" />
-    <state x="278" y="107" width="806" height="527" key="Vcs.Push.Dialog.v2" timestamp="1579385470037">
+    <state x="278" y="107" width="806" height="527" key="Vcs.Push.Dialog.v2" timestamp="1579454233299">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
-    <state x="278" y="107" width="806" height="527" key="Vcs.Push.Dialog.v2/0.0.1366.741@0.0.1366.741" timestamp="1579385470037" />
+    <state x="278" y="107" width="806" height="527" key="Vcs.Push.Dialog.v2/0.0.1366.741@0.0.1366.741" timestamp="1579454233299" />
     <state x="376" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1579379321931">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
