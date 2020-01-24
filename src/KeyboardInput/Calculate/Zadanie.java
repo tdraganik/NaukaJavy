@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class Zadanie {
     public static void main(String[] args) {
+
         Calculate count = new Calculate();
 
         Scanner scanner = new Scanner(System.in);
@@ -14,7 +15,7 @@ public class Zadanie {
         double a = scanner.nextDouble();
         scanner.nextLine();
 
-        System.out.println("Wprowadź znak:  + - * / ");
+        System.out.println("Wprowadź znak:  +  -  *  / ");
         String z = scanner.nextLine();
 
         System.out.println("Wprowadź drugą liczbę: ");

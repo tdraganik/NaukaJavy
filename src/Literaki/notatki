@@ -1,0 +1,15 @@
+//Wpiwsz 5 liter
+ABCDE
+
+Wpisz jedną lub dwie litery do któryh chcesz dopasować słowo, obowiązkowa co najmniej jedna
+
+class wyliczenia
+
+do każdej litery dopasuj wartość tak jak w literakach lub scrable
+
+class mieszanie:
+ustawienie wszystkich możliwych kombinacji podanych liter
+
+Dopasowanie wyników z class mieszanie do danch ze słownika
+
+Prezentacja 5 najwięcej wartych słów
