@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35d3d540-f0e1-47ca-8df7-df55e5ca5b3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/University/PhdStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/University/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/University/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/University/UniversityPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Vehicle/Boat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Vehicle/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Vehicle/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Vehicle/MotorBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Vehicle/StartTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Vehicle/Vehicles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Vehicle/WheeledVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Zoo/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Zoo/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Zoo/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Zoo/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Wholesale/ExhaustPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Wholesale/Part.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Wholesale/TestStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Wholesale/Tire.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +56,7 @@
       <recent name="$PROJECT_DIR$/src/ArrayExmaple/ArraySum" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Zoo">
+  <component name="RunManager" selected="Application.TestStart">
     <configuration name="DebugExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Debug.DebugExample" />
       <module name="Programy" />
@@ -94,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Debug.Zadanie" />
+    <configuration name="TestStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.Wholesale.TestStart" />
       <module name="Programy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Debug.*" />
+          <option name="PATTERN" value="Inheritance.Wholesale.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayExmaple.ArraySum.Zadanie.Zadanie" />
+    <configuration name="Zadanie (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Debug.Zadanie" />
       <module name="Programy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayExmaple.ArraySum.Zadanie.*" />
+          <option name="PATTERN" value="Debug.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestStart" />
         <item itemvalue="Application.Zoo" />
         <item itemvalue="Application.StartTest" />
         <item itemvalue="Application.Zadanie (1)" />
         <item itemvalue="Application.DebugExample" />
-        <item itemvalue="Application.Zadanie" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579843717127</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Package inheritance">
+      <created>1580031404622</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1580031404622</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -310,7 +306,8 @@
     <MESSAGE value="dodanie klasy KołoStatic - słowo Static" />
     <MESSAGE value="Zadanie z schematem - wprowadzaj liczby aż ich suma będzie większa niz 100" />
     <MESSAGE value="Debagowanie" />
-    <option name="LAST_COMMIT_MESSAGE" value="Debagowanie" />
+    <MESSAGE value="Package inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Package inheritance" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="33" width="806" height="676" key="#Auto_Import" timestamp="1579067399150">
@@ -325,10 +322,10 @@
       <screen x="0" y="0" width="1366" height="741" />
     </state>
     <state x="440" y="177" width="481" height="388" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.741@0.0.1366.741" timestamp="1578981592017" />
-    <state x="491" y="84" width="380" height="574" key="#com.intellij.ide.util.MemberChooser" timestamp="1579908672029">
+    <state x="491" y="84" width="380" height="574" key="#com.intellij.ide.util.MemberChooser" timestamp="1580036536364">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
-    <state x="491" y="84" width="380" height="574" key="#com.intellij.ide.util.MemberChooser/0.0.1366.741@0.0.1366.741" timestamp="1579908672029" />
+    <state x="491" y="84" width="380" height="574" key="#com.intellij.ide.util.MemberChooser/0.0.1366.741@0.0.1366.741" timestamp="1580036536364" />
     <state x="366" y="101" width="630" height="540" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579809809599">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
@@ -337,30 +334,30 @@
       <screen x="0" y="0" width="1366" height="741" />
     </state>
     <state x="440" y="0" width="482" height="740" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.741@0.0.1366.741" timestamp="1578768029889" />
-    <state x="330" y="0" width="701" height="740" key="CommitChangelistDialog2" timestamp="1579843716799">
+    <state x="330" y="0" width="701" height="740" key="CommitChangelistDialog2" timestamp="1580031404318">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
-    <state x="330" y="0" width="701" height="740" key="CommitChangelistDialog2/0.0.1366.741@0.0.1366.741" timestamp="1579843716799" />
+    <state x="330" y="0" width="701" height="740" key="CommitChangelistDialog2/0.0.1366.741@0.0.1366.741" timestamp="1580031404318" />
     <state x="97" y="100" width="1172" height="543" key="DiffContextDialog" timestamp="1578768279613">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
     <state x="97" y="100" width="1172" height="543" key="DiffContextDialog/0.0.1366.741@0.0.1366.741" timestamp="1578768279613" />
-    <state width="1320" height="157" key="GridCell.Tab.0.bottom" timestamp="1579909445040">
+    <state width="1320" height="157" key="GridCell.Tab.0.bottom" timestamp="1580037430539">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
-    <state width="1320" height="157" key="GridCell.Tab.0.bottom/0.0.1366.741@0.0.1366.741" timestamp="1579909445040" />
-    <state width="1320" height="157" key="GridCell.Tab.0.center" timestamp="1579909445040">
+    <state width="1320" height="157" key="GridCell.Tab.0.bottom/0.0.1366.741@0.0.1366.741" timestamp="1580037430539" />
+    <state width="1320" height="157" key="GridCell.Tab.0.center" timestamp="1580037430539">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
-    <state width="1320" height="157" key="GridCell.Tab.0.center/0.0.1366.741@0.0.1366.741" timestamp="1579909445040" />
-    <state width="1320" height="157" key="GridCell.Tab.0.left" timestamp="1579909445039">
+    <state width="1320" height="157" key="GridCell.Tab.0.center/0.0.1366.741@0.0.1366.741" timestamp="1580037430539" />
+    <state width="1320" height="157" key="GridCell.Tab.0.left" timestamp="1580037430538">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
-    <state width="1320" height="157" key="GridCell.Tab.0.left/0.0.1366.741@0.0.1366.741" timestamp="1579909445039" />
-    <state width="1320" height="157" key="GridCell.Tab.0.right" timestamp="1579909445040">
+    <state width="1320" height="157" key="GridCell.Tab.0.left/0.0.1366.741@0.0.1366.741" timestamp="1580037430538" />
+    <state width="1320" height="157" key="GridCell.Tab.0.right" timestamp="1580037430539">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
-    <state width="1320" height="157" key="GridCell.Tab.0.right/0.0.1366.741@0.0.1366.741" timestamp="1579909445040" />
+    <state width="1320" height="157" key="GridCell.Tab.0.right/0.0.1366.741@0.0.1366.741" timestamp="1580037430539" />
     <state width="824" height="313" key="GridCell.Tab.1.bottom" timestamp="1579810107144">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
@@ -381,10 +378,10 @@
       <screen x="0" y="0" width="1366" height="741" />
     </state>
     <state x="187" y="6" key="SettingsEditor/0.0.1366.741@0.0.1366.741" timestamp="1578737484846" />
-    <state x="278" y="107" width="806" height="527" key="Vcs.Push.Dialog.v2" timestamp="1579843729846">
+    <state x="278" y="107" width="806" height="527" key="Vcs.Push.Dialog.v2" timestamp="1580031411664">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
-    <state x="278" y="107" width="806" height="527" key="Vcs.Push.Dialog.v2/0.0.1366.741@0.0.1366.741" timestamp="1579843729846" />
+    <state x="278" y="107" width="806" height="527" key="Vcs.Push.Dialog.v2/0.0.1366.741@0.0.1366.741" timestamp="1580031411664" />
     <state x="376" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1579906139062">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
