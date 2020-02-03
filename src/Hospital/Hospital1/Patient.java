@@ -1,4 +1,5 @@
-package Hospital;
+package Hospital.Hospital1;
+
 
 public class Patient {
     String firstname;

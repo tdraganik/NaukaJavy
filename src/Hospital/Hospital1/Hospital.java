@@ -1,4 +1,4 @@
-package Hospital;
+package Hospital.Hospital1;
 
 public class Hospital {
     private final int maxPatientsNumber = 10; //maxymalna liczba pacjentów

@@ -1,6 +1,4 @@
-package Hospital;
-
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLPortType;
+package Hospital.Hospital1;
 
 import java.util.Scanner;
 

@@ -3,9 +3,8 @@ package Hospital.Hospital2;
 public class Hospital {
 
     private static final int MAX_EMPLOYEES = 3;
-    private Person[] persons = new Person[MAX_EMPLOYEES];
-
     private int employeesNumber = 0;
+    private Person[] persons = new Person[MAX_EMPLOYEES];
 
     void add(Person person) {
         if (employeesNumber < MAX_EMPLOYEES) {
@@ -21,6 +20,4 @@ public class Hospital {
         }
         return result;
     }
-
-
 }
