@@ -1,4 +1,4 @@
-package EqualsHashCodeExmaple;
+package toStringEqualsHashCodeExmaple;
 
 public class School {
     public static void main(String[] args) {
@@ -6,7 +6,6 @@ public class School {
         Student student0 = new Student("Jankowski", 25);
         Student student1 = new Student("Jankowski", 25);
         Student student3 = new Student("Nowak", 33);
-
 
 //        System.out.print("student1 == stucent2      ");
 //        System.out.println(student0 == student1);  // false - WSKAZUJE NA DWA RÓŻNE OBIEKTY
@@ -26,5 +25,7 @@ public class School {
         System.out.println(hash0);
         System.out.println(hash1);
         System.out.println(hash3);
+
+        System.out.println(student0); // to samo co student0.toStrong();
     }
 }

@@ -1,4 +1,4 @@
-package EqualsHashCodeExmaple;
+package toStringEqualsHashCodeExmaple;
 
 import java.util.Objects;
 
@@ -59,5 +59,10 @@ public class Student extends Person {
     @Override
     public int hashCode() {
         return Objects.hash(name, age);
+    }
+// nadpisana metoda toStrong z generatora inteliJ
+    @Override
+    public String toString() {
+        return name + " " + age;
     }
 }
