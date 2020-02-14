@@ -10,7 +10,6 @@ public class Hospital {
             patients[regPatients] = patient; // dodajemy pacjenta do tablicy przekazanego do metody na miejsce 0
             regPatients++;  // inkrementacja aktualnej liczby pacjentów
 
-
         } else {
             System.out.println("Kolejka jest już pełna dzisiaj");
         }
@@ -31,7 +30,6 @@ public class Hospital {
     public int getRegPatients() {
         return regPatients;
     }
-
 
 }
 

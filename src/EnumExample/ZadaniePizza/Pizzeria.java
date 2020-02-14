@@ -16,7 +16,7 @@ public class Pizzeria {
 
         Pizza confirmations = Pizza.valueOf(sc.nextLine().toUpperCase());
         sc.close();
-        System.out.println("Twoja zamówiona pizza to: " + confirmations.name());
+        System.out.println("Twoja zamówiona pizza to: " + confirmations.name() + " ze składnikami: " + confirmations.toString());
     }
 
     private static void printPizzas() {
