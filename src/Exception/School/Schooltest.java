@@ -2,7 +2,7 @@ package Exception.School;
 
 public class Schooltest {
     public static void main(String[] args) {
-        School school = new School(3);
+        School school = new School(5);
 
         try {
             school.add(new Student(1,"Janek","Wiśniewski"));
