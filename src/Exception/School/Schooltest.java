@@ -2,7 +2,7 @@ package Exception.School;
 
 public class Schooltest {
     public static void main(String[] args) {
-        School school = new School(5);
+        School school = new School(4);
 
         try {
             school.add(new Student(1,"Janek","Wiśniewski"));
@@ -13,14 +13,11 @@ public class Schooltest {
             System.out.println(e.getMessage());
         }
 
-        try {
-            Student student = school.find("Hieronim", "Wrona");
 
+            Student student = school.find("Hieronim", "Wrona");
             System.out.println("Znaleziono studenta o id:  " + student.getStudentId());
 
-        } catch (NoElementFoundException e) {
-            System.out.println(e.toString());
-        }
+
 
     }
 }
