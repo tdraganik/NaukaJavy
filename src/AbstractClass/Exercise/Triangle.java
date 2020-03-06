@@ -1,5 +1,6 @@
 package AbstractClass.Exercise;
 
+
 public class Triangle implements Shape {
     private double a;
     private double b;
@@ -47,10 +48,17 @@ public class Triangle implements Shape {
         this.height = height;
     }
 
+    public boolean isValid() {
+        return (a > 0) && (b > 0) && (c > 0) && (a + b > c) && (a + c > b) && (c + b > a);
+    }
+
     @Override
     public double calculateArea() {
-          //  if (a + b > c && b + c > a && a + c > b && a > 0 && b > 0 && c > 0)
-                return 0.5 * a * height;
+        if (isValid() == true) {
+            return 0.5 * a * height;
+        } else
+    return 0;
+
     }
 
     @Override
